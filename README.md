@@ -1,0 +1,2 @@
+# EZGaming
+Easy Gaming
