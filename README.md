@@ -15,7 +15,7 @@
 
 ## 展览
   - 1. [上海龙美术馆 奥拉维尔·利亚松 无相万象] (http://thelongmuseum.org/cn/exhibition/overview/d81dwA)
-  - 2. ~~[上海当代艺术博物馆 蛇杖III] (http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~
+  - 2. ~~[上海当代艺术博物馆 蛇杖III] (http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~ ![左开道岔](https://github.com/TouHenYing/EZGaming/blob/master/%E8%9B%87%E6%9D%96/%E5%B7%A6%E5%BC%80%E9%81%93%E5%B2%9402.JPG)
   - 3. 苏州甪直保圣寺
   - 4. [上海电影博物馆] (http://www.shfilmmuseum.com/)
   - 5. [上海自然博物馆] ( http://www.snhm.org.cn/)
