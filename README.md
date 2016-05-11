@@ -6,7 +6,7 @@
 
 ## [Dota2] (http://www.dota2.com.cn)
   - 1. [Spring Major] (http://dota2.uuu9.com/spring/m/)
-  - 2. [震中杯] （http://es.dota2.uuu9.com/Game/145.html）
+  - 2. [震中杯] (http://es.dota2.uuu9.com/Game/145.html)
 
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
