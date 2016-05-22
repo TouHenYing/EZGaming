@@ -18,7 +18,7 @@
   - 2. ~~[上海当代艺术博物馆 蛇杖III] (http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~   [当天](https://github.com/TouHenYing/EZGaming/tree/master/%E8%9B%87%E6%9D%96)
   - 3. 苏州甪直保圣寺
   - 4. [上海电影博物馆] (http://www.shfilmmuseum.com/)
-  - 5. [上海自然博物馆] ( http://www.snhm.org.cn/)
+  - 5. ~~[上海自然博物馆] ( http://www.snhm.org.cn/)~~
 
 ## ToBuy
   - [ ] 耳机
