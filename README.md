@@ -11,8 +11,8 @@
     ---|---|---|---
     OG|~~Wings~~|Team Liquid|~~Evil Genius~~
     ~~Empire~~|~~DC~~|~~Alliance~~|~~Mineski~~
-    NB|~~Secret~~|Vici Gaming Reburn|MVP
-    ~~col~~|~~Navi~~|Fnatic|LGD
+    NB|~~Secret~~|~~Vici Gaming Reburn~~|MVP
+    ~~col~~|~~Navi~~|~~Fnatic~~|LGD
   - 2. [震中杯] (http://es.dota2.uuu9.com/Game/145.html)
 
 ## [炉石传说] (http://www.hearthstone.com.cn)
