@@ -9,7 +9,7 @@
     
     A组 | B组 | C组 | D组
     ---|---|---|---
-    OG|~~Wings~~|Team Liquid|~~Evil Genius~~
+    OG|~~Wings~~|~~Team Liquid~~|~~Evil Genius~~
     ~~Empire~~|~~DC~~|~~Alliance~~|~~Mineski~~
     ~~NB~~|~~Secret~~|~~Vici Gaming Reburn~~|~~MVP~~
     ~~col~~|~~Navi~~|~~Fnatic~~|~~LGD~~
