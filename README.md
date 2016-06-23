@@ -32,7 +32,8 @@
   - 5. ~~[上海自然博物馆] ( http://www.snhm.org.cn/)~~ [当天](https://github.com/TouHenYing/EZGaming/tree/master/%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A6%86)
 
 ## ToBuy
-  - [ ] 耳机
+  - [x] 耳机
   - [ ] 自行车
+  - [ ] 微单 or 单反
 
 
