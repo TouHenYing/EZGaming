@@ -15,6 +15,7 @@
       ~~col~~|~~Navi~~|~~Fnatic~~|~~LGD~~
 
   - [震中杯] (http://es.dota2.uuu9.com/Game/145.html)
+  - TI6 预选赛 Wings && Ehome
   - TI6
 
 ## [炉石传说] (http://www.hearthstone.com.cn)
