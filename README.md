@@ -16,7 +16,7 @@
 
   - [震中杯] (http://es.dota2.uuu9.com/Game/145.html)
   - TI6 预选赛 Wings && VG.R
-  - TI6 外卡赛 [外卡赛] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6WILDCARD.jpg)
+  - TI6 外卡赛 [外卡赛] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6WILDCARD.jpg) Ehome && Escape Gaming
   - TI6 小组赛 [小组抽签] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6GROUP.jpg) 
     
 ## [炉石传说] (http://www.hearthstone.com.cn)
