@@ -16,9 +16,32 @@
 
   - [震中杯] (http://es.dota2.uuu9.com/Game/145.html)
   - TI6 预选赛 Wings && VG.R
-  - TI6 外卡赛 [外卡赛] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6WILDCARD.jpg) Ehome && Escape Gaming
+  - TI6 外卡赛 [外卡赛] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6WILDCARD.jpg) 
+    - 2016.08.03 Ehome && Escape Gaming
   - TI6 小组赛 [小组抽签] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6GROUP.jpg) 
-    
+  
+      GROUP A | SCORE
+      :---:|:---:
+      OG | 0
+      Alliance | 0
+      Wings | 0
+      Natus Vincere | 0
+      Evil Geniuses | 0
+      LGD Gaming | 0
+      Tnc Pro Team | 0
+      Escape Gaming | 0
+
+      GROUP B | SCORE
+      :---:|:---:
+      Newbee | 0
+      Team Secret | 0
+      Vici Reborn | 0
+      MVP Phoenix | 0
+      Digital Chaos | 0
+      Fnatic | 0
+      Team Liquid | 0
+      Ehome | 0
+      
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
 ## Marathon
