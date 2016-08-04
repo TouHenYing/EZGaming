@@ -20,16 +20,16 @@
     - 2016.08.03 Ehome && Escape Gaming
   - TI6 小组赛 [小组抽签] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6GROUP.jpg) 
   
-      GROUP A | GROUP B
-      :---:|:---:
-      OG 0 | Newbee 0 
-      Alliance 0 | Team Secret 0
-      Wings 0 | Vici Reborn 0
-      Natus Vincere 0 | MVP Phoenix 0
-      Evil Geniuses 0 | Digital Chaos 0
-      LGD Gaming 0 | Fnatic 0
-      Tnc Pro Team 0 | Team Liquid 0
-      Escape Gaming 0 | Ehome 0
+      GROUP A | 场次 | 积分 | GROUP B | 场次 | 积分 
+      :---:|:---:|:---:|:---:|:---:|:---:
+      OG | 3 (1W0L2D) | 4 | Newbee | 2 (1W0L1D) | 3 
+      Alliance | 3 (1W1L1D) | 3 | Team Secret | 2 (1W0L1D) | 3 
+      Wings | 3 (1W1L1D) | 3 | Vici Reborn | 2 (0W0L2D) | 0 
+      Natus Vincere | 3 (0W1L2D) | 2 | MVP Phoenix | 2 (0W0L2D) | 2 
+      Evil Geniuses | 3 (1W0L2D) | 4 | Digital Chaos | 2 (1W0L1D) | 3 
+      LGD Gaming | 3 (1W0L2D) | 4 | Fnatic | 2 (0W2L0D) | 0 
+      Tnc Pro Team | 3 (1W1L1D) | 3 | Team Liquid | 2 (0W0L2D) | 2 
+      Escape Gaming | 3 (0W2L1D) | 1| Ehome | 2 (1W0L1D) | 3 
       
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
