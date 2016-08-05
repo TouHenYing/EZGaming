@@ -22,14 +22,14 @@
   
       GROUP A | 场次 | 积分 | GROUP B | 场次 | 积分 
       :---:|:---:|:---:|:---:|:---:|:---:
-      OG | 3 (1W0L2D) | 4 | Newbee | 2 (1W0L1D) | 3 
-      Alliance | 3 (1W1L1D) | 3 | Team Secret | 2 (1W0L1D) | 3 
-      Wings | 3 (1W1L1D) | 3 | Vici Reborn | 2 (0W0L2D) | 0 
-      Natus Vincere | 3 (0W1L2D) | 2 | MVP Phoenix | 2 (0W0L2D) | 2 
-      Evil Geniuses | 3 (1W0L2D) | 4 | Digital Chaos | 2 (1W0L1D) | 3 
-      LGD Gaming | 3 (1W0L2D) | 4 | Fnatic | 2 (0W2L0D) | 0 
-      Tnc Pro Team | 3 (1W1L1D) | 3 | Team Liquid | 2 (0W0L2D) | 2 
-      Escape Gaming | 3 (0W2L1D) | 1| Ehome | 2 (1W0L1D) | 3 
+      OG | 5 (2W0L3D) | 7 | Newbee | 5 (2W2L1D) | 5 
+      Alliance | 5 (2W2L1D) | 5 | Team Secret | 5 (1W3L1D) | 3 
+      Wings | 5 (2W1L2D) | 6 | Vici Reborn | 5 (1W2L2D) | 4 
+      Natus Vincere | 5 (1W2L2D) | 4 | MVP Phoenix | 5 (0W4L1D) | 4 
+      Evil Geniuses | 5 (2W0L2D) | 8 | Digital Chaos | 5 (3W0L2D) | 8 
+      LGD Gaming | 5 (1W2L2D) | 4 | Fnatic | 5 (1W4L0D) | 2 
+      Tnc Pro Team | 5 (2W2L1D) | 5 | Team Liquid | 5 (1W1L3D) | 5 
+      Escape Gaming | 5 (0W1L4D) | 1| Ehome | 5 (4W0L1D) | 9 
       
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
