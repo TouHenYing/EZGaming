@@ -29,4 +29,4 @@
   - Ehome 2:0 Alliance
   - EG 2:0 Newbee
   - TNC 2:0 OG
-  - LGD     Fnatic
+  - DC 2:0 LGD
