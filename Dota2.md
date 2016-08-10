@@ -1,4 +1,6 @@
-## TI6 预选赛 Wings && VG.R
+## TI6 预选赛 
+- Wings && VG.R
+
 ## TI6 外卡赛 [外卡赛] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6WILDCARD.jpg)
 - 2016.08.03 Ehome && Escape Gaming
 
