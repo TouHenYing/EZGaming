@@ -1,6 +1,7 @@
 ## TI6 预选赛 Wings && VG.R
-## TI6 外卡赛 [外卡赛] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6WILDCARD.jpg) 
-    - 2016.08.03 Ehome && Escape Gaming
+## TI6 外卡赛 [外卡赛] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6WILDCARD.jpg)
+- 2016.08.03 Ehome && Escape Gaming
+
 ## TI6 小组赛 [小组抽签] (https://github.com/TouHenYing/EZGaming/raw/master/jpg/TI6GROUP.jpg) 
   
   GROUP A | 场次 | 积分 | GROUP B | 场次 | 积分 
@@ -15,15 +16,15 @@
   Escape Gaming | 7 (0W2L5D) | 2| Ehome | 7 (5W0L2D) | 12 
   
 ## TI6 淘汰赛 [淘汰赛] (dota2.uuu9.com/ti/)
-    - 第一天 `08.09`
-      - MVP 2:1 OG 
-      - Wings 2:1 DC 
-      - TNC 1:0 VG.R 
-      - LGD 1:0 Secret 
-      - Fnatic 1:0 Escape 
-      - Liquid 1:0 Navi
-    - 第二天 `08.10`
-      - Ehome 2:0 Alliance
-      - EG 2:0 Newbee
-      - TNC 2:0 OG
-      - LGD     Fnatic
+- 第一天 `08.09`
+  - MVP 2:1 OG 
+  - Wings 2:1 DC 
+  - TNC 1:0 VG.R 
+  - LGD 1:0 Secret 
+  - Fnatic 1:0 Escape 
+  - Liquid 1:0 Navi
+- 第二天 `08.10`
+  - Ehome 2:0 Alliance
+  - EG 2:0 Newbee
+  - TNC 2:0 OG
+  - LGD     Fnatic
