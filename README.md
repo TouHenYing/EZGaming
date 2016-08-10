@@ -30,7 +30,21 @@
       LGD Gaming | 7 (1W3L3D) | 5 | Fnatic | 7 (2W4L1D) | 5 
       Tnc Pro Team | 7 (3W3L1D) | 7 | Team Liquid | 7 (1W3L3D) | 5 
       Escape Gaming | 7 (0W2L5D) | 2| Ehome | 7 (5W0L2D) | 12 
-      
+  
+  - TI6 淘汰赛 [淘汰赛] (dota2.uuu9.com/ti/)
+    - 第一天 `08.09`
+      - MVP 2:1 OG 
+      - Wings 2:1 DC 
+      - TNC 1:0 VG.R 
+      - LGD 1:0 Secret 
+      - Fnatic 1:0 Escape 
+      - Liquid 1:0 Navi
+    - 第二天 `08.10`
+      - Ehome 2:0 Alliance
+      - EG 2:0 Newbee
+      - TNC 2:0 OG
+      - LGD     Fnatic
+    
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
 ## Marathon
