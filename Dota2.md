@@ -21,12 +21,28 @@
 - 第一天 `08.09`
   - MVP 2:1 OG 
   - Wings 2:1 DC 
-  - TNC 1:0 VG.R 
-  - LGD 1:0 Secret 
-  - Fnatic 1:0 Escape 
-  - Liquid 1:0 Navi
+  - TNC 1:0 VG.R VG.R淘汰
+  - LGD 1:0 Secret Secret淘汰
+  - Fnatic 1:0 Escape Escape淘汰
+  - Liquid 1:0 Navi Navi淘汰
 - 第二天 `08.10`
   - Ehome 2:0 Alliance
   - EG 2:0 Newbee
-  - TNC 2:0 OG
-  - DC 2:0 LGD
+  - TNC 2:0 OG OG淘汰
+  - DC 2:0 LGD LGD淘汰
+- 第三天 `08.11`
+  - Wings 2:0 MVP
+  - EG 2:0 Ehome
+  - Fnatic 2:0 Alliance Alliance淘汰
+  - Liquid 2:0 Newbee Newbee淘汰
+- 第四天 `08.12`
+  - DC 2:0 TNC
+  - Fnatic 2:0 Liquid Liquid淘汰
+  - DC 2:0 Ehome Ehome淘汰
+- 第五天 `08.13`
+  - EG Wings 胜者组决赛
+  - Fnatic MVP
+  - DC TBD
+- 第六天 `08.14`
+  - TBD TBD 败者组决赛
+  - TBD TBD 总决赛
