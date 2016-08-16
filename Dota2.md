@@ -40,9 +40,10 @@
   - Fnatic 2:0 Liquid Liquid淘汰
   - DC 2:0 Ehome Ehome淘汰
 - 第五天 `08.13`
-  - EG Wings 胜者组决赛
-  - Fnatic MVP
-  - DC TBD
+  - EG 0:2 Wings 胜者组决赛
+  - Fnatic 2:0 MVP
+  - DC 2:0 Fnatic
 - 第六天 `08.14`
-  - TBD TBD 败者组决赛
-  - TBD TBD 总决赛
+  - DC 2:1 EG 败者组决赛
+  - Wings 3:1 DC 总决赛
+## Wings Gaming 拿到TI6冠军.成员:y`Innocence,iceice,Faith_bian,跳刀跳刀,Shadow
