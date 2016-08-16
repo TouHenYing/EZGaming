@@ -47,4 +47,4 @@
   - DC 2:1 EG 败者组决赛
   - Wings 3:1 DC 总决赛
 
-## Wings Gaming 拿到TI6冠军.成员:y`Innocence,iceice,Faith_bian,跳刀跳刀,Shadow
+## Wings Gaming 拿到TI6冠军.成员:```y`Innocence```,```iceice```,```Faith_bian```,```跳刀跳刀```,```Shadow```
