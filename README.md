@@ -31,6 +31,7 @@
   - 4. ~~[上海电影博物馆] (http://www.shfilmmuseum.com/)~~
   - 5. ~~[上海自然博物馆] ( http://www.snhm.org.cn/)~~ [当天](https://github.com/TouHenYing/EZGaming/tree/master/%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A6%86)
   - 6. 徽杭古道徒步
+  - 7. ~~四窗岩漂流~~[仅有的照片](https://github.com/TouHenYing/EZGaming/blob/master/jpg/002.JPG)
 
 ## ToBuy
   - [x] 耳机
