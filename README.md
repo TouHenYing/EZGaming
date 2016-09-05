@@ -6,14 +6,6 @@
 
 ## [Dota2] (http://www.dota2.com.cn)
   - [Spring Major] (http://dota2.uuu9.com/spring/m/)
-      
-      A组 | B组 | C组 | D组
-      ---|---|---|---
-      OG|~~Wings~~|~~Team Liquid~~|~~Evil Genius~~
-      ~~Empire~~|~~DC~~|~~Alliance~~|~~Mineski~~
-      ~~NB~~|~~Secret~~|~~Vici Gaming Reburn~~|~~MVP~~
-      ~~col~~|~~Navi~~|~~Fnatic~~|~~LGD~~
-
   - [震中杯] (http://es.dota2.uuu9.com/Game/145.html)
   - [TI6] (https://github.com/TouHenYing/EZGaming/blob/master/Dota2.md)
     
