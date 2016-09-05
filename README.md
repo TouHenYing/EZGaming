@@ -7,7 +7,7 @@
 ## [Dota2] (http://www.dota2.com.cn)
   - [Spring Major] (http://dota2.uuu9.com/spring/m/)
   - [震中杯] (http://es.dota2.uuu9.com/Game/145.html)
-  - [TI6] (https://github.com/TouHenYing/EZGaming/blob/master/Dota2.md)
+  - [TI6] (https://github.com/TouHenYing/EZGaming/blob/master/TI6.md)
     
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
@@ -17,7 +17,12 @@
   
 ## [守望先锋] (http://www.playoverwatch.cn)
 
-## 展览
+## [魔兽世界] (http://wow.blizzard.cn)
+  - 09.01 7.0军团再临上线 
+  - 09.22 翡翠梦魇团队副本普通及英雄难度开放
+  - 09.29 翡翠梦魇团队副本史诗难度开放
+
+## 展览 && 旅途
   - 1. *[上海龙美术馆 奥拉维尔·利亚松 无相万象] (http://thelongmuseum.org/cn/exhibition/overview/d81dwA)* `过期`
   - 2. ~~[上海当代艺术博物馆 蛇杖III] (http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~   [当天](https://github.com/TouHenYing/EZGaming/tree/master/%E8%9B%87%E6%9D%96)
   - 3. 苏州甪直保圣寺
