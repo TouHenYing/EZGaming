@@ -12,7 +12,7 @@
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
 ## Sports
-  - 1. 11.21 ShangHai Half Marathon
+  - 1. *11.21 ShangHai Half Marathon* `报名无能`
   - 2. [从无锡到上海] (https://github.com/TouHenYing/EZGaming/blob/master/jpg/004.PNG)
   
 ## [守望先锋] (http://www.playoverwatch.cn)
