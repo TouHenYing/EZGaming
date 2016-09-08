@@ -18,9 +18,7 @@
 ## [守望先锋] (http://www.playoverwatch.cn)
 
 ## [魔兽世界] (http://wow.blizzard.cn)
-  - 09.01 7.0军团再临上线 
-  - 09.22 翡翠梦魇团队副本普通及英雄难度开放
-  - 09.29 翡翠梦魇团队副本史诗难度开放
+  - [7.0 RoadMap] ()
 
 ## 展览 && 旅途
   - 1. ~~***[上海龙美术馆 奥拉维尔·利亚松 无相万象] (http://thelongmuseum.org/cn/exhibition/overview/d81dwA)***~~ `过期`
