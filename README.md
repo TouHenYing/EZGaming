@@ -28,7 +28,9 @@
   - 5. ~~[上海自然博物馆] ( http://www.snhm.org.cn/)~~ [当天](https://github.com/TouHenYing/EZGaming/tree/master/%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A6%86)
   - 6. ~~徽杭古道徒步~~ [当天] (https://github.com/TouHenYing/EZGaming/tree/master/GoHiking/09-02)
   - 7. ~~四窗岩漂流~~ [仅有的照片](https://github.com/TouHenYing/EZGaming/blob/master/jpg/002.JPG)
-  - 8. 苏州大闸蟹  
+  - 8. 苏州大闸蟹
+  - 9. 上海博物馆
+    -  [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_) 
 
 ## ToBuy
   - [x] 耳机
