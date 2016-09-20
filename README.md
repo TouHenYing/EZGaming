@@ -7,7 +7,7 @@
 ## [Dota2] (http://www.dota2.com.cn)
   - [Spring Major] (http://dota2.uuu9.com/spring/m/)
   - [震中杯] (http://es.dota2.uuu9.com/Game/145.html)
-  - [TI6] (https://github.com/TouHenYing/EZGaming/blob/master/Dota2/TI6.md)
+  - [TI6] (./Dota2/TI6.md)
     
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
