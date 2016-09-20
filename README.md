@@ -13,21 +13,21 @@
 
 ## Sports
   - 1. ~~***11.21 ShangHai Half Marathon***~~ `报名无能`
-  - 2. [从无锡到上海] (https://github.com/TouHenYing/EZGaming/blob/master/jpg/004.PNG)
+  - 2. [从无锡到上海] (./jpg/004.PNG)
   
 ## [守望先锋] (http://www.playoverwatch.cn)
 
 ## [魔兽世界] (http://wow.blizzard.cn)
-  - [7.0 RoadMap] (https://github.com/TouHenYing/EZGaming/blob/master/WOW/RoadMap.md)
+  - [7.0 RoadMap] (./WOW/RoadMap.md)
 
 ## 展览 && 旅途
   - 1. ~~***[上海龙美术馆 奥拉维尔·利亚松 无相万象] (http://thelongmuseum.org/cn/exhibition/overview/d81dwA)***~~ `过期`
-  - 2. ~~[上海当代艺术博物馆 蛇杖III] (http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~   [当天](https://github.com/TouHenYing/EZGaming/tree/master/%E8%9B%87%E6%9D%96)
+  - 2. ~~[上海当代艺术博物馆 蛇杖III] (http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~   [当天](./%E8%9B%87%E6%9D%96)
   - 3. 苏州甪直保圣寺
   - 4. ~~[上海电影博物馆] (http://www.shfilmmuseum.com/)~~
-  - 5. ~~[上海自然博物馆] ( http://www.snhm.org.cn/)~~ [当天](https://github.com/TouHenYing/EZGaming/tree/master/%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A6%86)
-  - 6. ~~徽杭古道徒步~~ [当天] (https://github.com/TouHenYing/EZGaming/tree/master/GoHiking/09-02)
-  - 7. ~~四窗岩漂流~~ [仅有的照片](https://github.com/TouHenYing/EZGaming/blob/master/jpg/002.JPG)
+  - 5. ~~[上海自然博物馆] ( http://www.snhm.org.cn/)~~ [当天](./%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A6%86)
+  - 6. ~~徽杭古道徒步~~ [当天] (.r/GoHiking/09-02)
+  - 7. ~~四窗岩漂流~~ [仅有的照片](./jpg/002.JPG)
   - 8. 苏州大闸蟹
   - 9. 上海博物馆
     -  [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_) 
