@@ -12,8 +12,8 @@
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
 ## Sports
-  - 1. ~~***11.21 ShangHai Half Marathon***~~ `报名无能`
-  - 2. [从无锡到上海] (./jpg/004.PNG)
+  - 1. [10.30 ShangHai Half Marathon](./jpg/Marathon)
+  - 2. ~~[从无锡到上海] (./jpg/004.PNG)~~ `Done`
   
 ## [守望先锋] (http://www.playoverwatch.cn)
 
