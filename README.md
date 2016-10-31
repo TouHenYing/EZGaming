@@ -12,7 +12,7 @@
 ## [炉石传说] (http://www.hearthstone.com.cn)
 
 ## Sports
-  - 1. [10.30 ShangHai Half Marathon](./jpg/Marathon)
+  - 1. ~~[10.30 ShangHai Half Marathon](./jpg/Marathon)~~ `Record : 2:50:03`
   - 2. ~~[从无锡到上海] (./jpg/004.PNG)~~ `Done`
   
 ## [守望先锋] (http://www.playoverwatch.cn)
