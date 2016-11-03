@@ -19,7 +19,7 @@
 ## [守望先锋](http://www.playoverwatch.cn)
 
 ## [魔兽世界](http://wow.blizzard.cn)
-  - [7.0 RoadMap](./WOW/RoadMap.md)
+  - ~~[7.0 RoadMap](./WOW/RoadMap.md)~~ `已放弃`
 
 ## 展览 && 旅途
   - 1. ~~***[上海龙美术馆 奥拉维尔·利亚松 无相万象](http://thelongmuseum.org/cn/exhibition/overview/d81dwA)***~~ `过期`
