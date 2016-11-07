@@ -15,8 +15,8 @@
 ## Sports
   - 1. ~~[10.30 ShangHai Half Marathon](./jpg/Marathon)~~ `Record : 2:50:03`
   - 2. ~~[从无锡到上海](./jpg/004.PNG)~~ `Done`
-  - 3. 滴水湖骑行
-  - 4. 无锡马拉松
+  - 3. 滴水湖骑行
+  - 4. 无锡马拉松
   
 ## [守望先锋](http://www.playoverwatch.cn)
 
