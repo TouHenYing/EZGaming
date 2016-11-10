@@ -43,9 +43,9 @@
   - [ ] 微单 or 单反
 
 ## ToDo
-  - [Dota2图鉴](https://github.com/TouHenYing/Dota2Book) `停滞不前 ==<-|->== 冷漠脸`
-  - something about 阴阳师 (悬赏封印 御魂搭配 式神介绍) 
-  - 追番App [原型](http://luxun.pro/#/bangumis)
+  - [Dota2图鉴](https://github.com/TouHenYing/Dota2Book) `停滞不前 ==<-|->== 冷漠脸`
+  - something about 阴阳师 (悬赏封印 御魂搭配 式神介绍)
+  - 追番App [原型](http://luxun.pro/#/bangumis)
   
 
 
