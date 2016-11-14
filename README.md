@@ -31,9 +31,10 @@
   - 5. ~~[上海自然博物馆]( http://www.snhm.org.cn/)~~ [当天](./%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A6%86)
   - 6. ~~徽杭古道徒步~~ [当天](.r/GoHiking/09-02)
   - 7. ~~四窗岩漂流~~ [仅有的照片](./jpg/002.JPG)
-  - 8. 苏州大闸蟹
+  - 8. ~~苏州大闸蟹~~ `过季节`
   - 9. 上海博物馆
-    -  [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_) 
+    - [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_) 
+  - 10. [上海双年展](http://www.shanghaibiennale.org/cn/)
 
 ## ToBuy
   - [x] 耳机
