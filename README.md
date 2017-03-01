@@ -16,7 +16,7 @@
 ## Sports
   - 1. ~~[10.30 ShangHai Half Marathon](./jpg/Marathon)~~ `Record : 2:50:03`
   - 2. ~~[从无锡到上海](./jpg/004.PNG)~~ `Done`
-  - 3. 滴水湖骑行 `阳春三月出发`
+  - 3. 滴水湖骑行 `阳春三月出发 倒数`
   - 4. ~~无锡马拉松~~ `没有报上名`
   
 ## [守望先锋](http://www.playoverwatch.cn)
@@ -36,8 +36,8 @@
   - 9. 上海博物馆
     - [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_) 
   - 10. ~~[上海双年展](http://www.shanghaibiennale.org/cn/)~~
-  - 11. 泰山之行
-
+  - 11. 泰山之行 or 黄山之行?
+  
 ## ToBuy
   - [x] 耳机
   - [x] 自行车
@@ -50,10 +50,14 @@
   - 抓取菜谱
   - 每日10:00读书
   - 继续跑步
+  
+## 做出的改变
+  - Be more tough
+  - Be more firm
 
-## ToDo
-  - [Dota2图鉴](https://github.com/TouHenYing/Dota2Book) `停滞不前 ==<-|->== 冷漠脸`
-  - something about 阴阳师 (悬赏封印 御魂搭配 式神介绍)
+## Coding
+  - [Dota2图鉴](https://github.com/TouHenYing/Dota2Book) `停滞不前 ==<-|->== 冷漠脸`
+  - ~~something about 阴阳师 (悬赏封印 御魂搭配 式神介绍)~~
   - 追番App [原型](http://luxun.pro/#/bangumis)
   
 
