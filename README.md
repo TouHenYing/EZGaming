@@ -52,12 +52,16 @@
   - 继续跑步
   
 ## 做出的改变
-  - Be more tough
-  - Be more firm
+  - Be more tough
+  
+  - Be more firm
 
 ## Coding
-  - [Dota2图鉴](https://github.com/TouHenYing/Dota2Book) `停滞不前 ==<-|->== 冷漠脸`
-  - ~~something about 阴阳师 (悬赏封印 御魂搭配 式神介绍)~~
+  
+  - [Dota2图鉴](https://github.com/TouHenYing/Dota2Book) `停滞不前 ==<-|->== 冷漠脸`
+  
+  - ~~something about 阴阳师 (悬赏封印 御魂搭配 式神介绍)~~
+  
   - 追番App [原型](http://luxun.pro/#/bangumis)
   
 
