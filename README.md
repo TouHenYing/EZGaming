@@ -36,7 +36,7 @@
   - 9. 上海博物馆
     - [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_) 
   - 10. ~~[上海双年展](http://www.shanghaibiennale.org/cn/)~~
-  - 11. 泰山之行 or 黄山之行?
+  - 11. 泰山之行 or 黄山之行?
   
 ## ToBuy
   - [x] 耳机
