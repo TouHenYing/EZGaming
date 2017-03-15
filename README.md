@@ -25,18 +25,20 @@
   - ~~[7.0 RoadMap](./WOW/RoadMap.md)~~ `已放弃`
 
 ## 展览 && 旅途
-  - 1. ~~***[上海龙美术馆 奥拉维尔·利亚松 无相万象](http://thelongmuseum.org/cn/exhibition/overview/d81dwA)***~~ `过期`
-  - 2. ~~[上海当代艺术博物馆 蛇杖III](http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~   [当天](./%E8%9B%87%E6%9D%96)
-  - 3. 苏州甪直保圣寺 
-  - 4. ~~[上海电影博物馆](http://www.shfilmmuseum.com/)~~
-  - 5. ~~[上海自然博物馆]( http://www.snhm.org.cn/)~~ [当天](./%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A6%86)
-  - 6. ~~徽杭古道徒步~~ [当天](.r/GoHiking/09-02)
-  - 7. ~~四窗岩漂流~~ [仅有的照片](./jpg/002.JPG)
-  - 8. ~~苏州大闸蟹~~ `过季节`
-  - 9. 上海博物馆
+- 2016
+  - ~~***[上海龙美术馆 奥拉维尔·利亚松 无相万象](http://thelongmuseum.org/cn/exhibition/overview/d81dwA)***~~ `过期`
+  - ~~[上海当代艺术博物馆 蛇杖III](http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~   [当天](./%E8%9B%87%E6%9D%96)
+  - 苏州甪直保圣寺 
+  - ~~[上海电影博物馆](http://www.shfilmmuseum.com/)~~
+  - ~~[上海自然博物馆]( http://www.snhm.org.cn/)~~ [当天](./%E8%87%AA%E7%84%B6%E5%8D%9A%E7%89%A9%E9%A6%86)
+  - ~~徽杭古道徒步~~ [当天](.r/GoHiking/09-02)
+  - ~~四窗岩漂流~~ [仅有的照片](./jpg/002.JPG)
+  - ~~苏州大闸蟹~~ `过季节`
+  - 上海博物馆
     - [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_) 
-  - 10. ~~[上海双年展](http://www.shanghaibiennale.org/cn/)~~
-  - 11. 泰山之行 or 黄山之行?
+  - ~~[上海双年展](http://www.shanghaibiennale.org/cn/)~~
+- 2017
+  - 泰山之行 or 黄山之行?
   
 ## ToBuy
   - [x] 耳机
