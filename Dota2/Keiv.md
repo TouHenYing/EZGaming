@@ -1,11 +1,11 @@
-# »ù¸¨ÌØ½õÈü
+# åŸºè¾…ç‰¹é”¦èµ›
 
-# Ê±¼ä:2017.4.20~2017.4.23
+# æ—¶é—´:2017.4.20~2017.4.23
 
-# ÈüÖÆ:
-    - Ğ¡×éÈü[ÈğÊ¿ÖÆ](http://baike.baidu.com/link?url=pmMXnpBEwVd3Wv0KQ04whr_8nkWY_27IeFVcTjiYMOufVlMUy3o1Xel5cW-xExNe7qlATbM999ZRAHWjYENSBaZrLuTZLc4pw0KAPpU-p_HZmPKYlUYZQs0BUEKXRp4J)
-    - ÌÔÌ­Èü[µ¥°ÜÖÆ]
+# èµ›åˆ¶:
+  - å°ç»„èµ› [ç‘å£«åˆ¶](http://baike.baidu.com/link?url=pmMXnpBEwVd3Wv0KQ04whr_8nkWY_27IeFVcTjiYMOufVlMUy3o1Xel5cW-xExNe7qlATbM999ZRAHWjYENSBaZrLuTZLc4pw0KAPpU-p_HZmPKYlUYZQs0BUEKXRp4J)
+  - æ·˜æ±°èµ› [å•è´¥åˆ¶]
 
-# ²ÎÈü¶ÓÎé:
-    - ÊÜÑû¶ÓÎé: [Wings] [OG] [Ad Finem] [Team Liquid] [Evil Genius] [Digital Chaos] [Newbee] [VG.J]
-	- Ô¤Ñ¡Èü³öÏß¶ÓÎé: [Team Onyx] [SG e-sports] [Team Secret] [Virtus.pro] [Team Faceless] [TNC Pro Team] [IG.Vitality] [Invictus Gaming]
+# å‚èµ›é˜Ÿä¼:
+  - å—é‚€é˜Ÿä¼: [Wings] [OG] [Ad Finem] [Team Liquid] [Evil Genius] [Digital Chaos] [Newbee] [VG.J]
+  - é¢„é€‰èµ›å‡ºçº¿é˜Ÿä¼: [Team Onyx] [SG e-sports] [Team Secret] [Virtus.pro] [Team Faceless] [TNC Pro Team] [IG.Vitality] [Invictus Gaming]
