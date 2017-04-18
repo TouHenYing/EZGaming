@@ -8,8 +8,9 @@
   - [Spring Major](http://dota2.uuu9.com/spring/m/)
   - [震中杯](http://es.dota2.uuu9.com/Game/145.html)
   - [TI6](./Dota2/TI6.md)
-  - [2017波士顿秋季赛](./Dota2/Boston.md)
-  - [2017 DAC邀请赛](./Dota2/DAC.md)
+  - [2017波士顿秋季赛](./Dota2/Boston.md) `OG夺冠`
+  - [2017 DAC邀请赛](./Dota2/DAC.md)`IG夺冠`
+  - [2017 基辅特锦赛](./Dota2/Kiev.md)
     
 ## [炉石传说](http://www.hearthstone.com.cn)
 
@@ -40,6 +41,8 @@
   - ~~[上海双年展](http://www.shanghaibiennale.org/cn/)~~
 - 2017
   - 泰山之行 or 黄山之行?
+  - ~~问题博物馆~~
+  - 
   
 ## ToBuy
   - [x] 耳机
