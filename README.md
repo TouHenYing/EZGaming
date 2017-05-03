@@ -10,9 +10,7 @@
   - [TI6](./Dota2/TI6.md)
   - [2017波士顿秋季赛](./Dota2/Boston.md) `OG夺冠`
   - [2017 DAC邀请赛](./Dota2/DAC.md)`IG夺冠`
-  - [2017 基辅特锦赛](./Dota2/Keiv.md)
-    
-## [炉石传说](http://www.hearthstone.com.cn)
+  - [2017 基辅特锦赛](./Dota2/Keiv.md) `OG夺冠`
 
 ## Sports
   - ~~[2016 10.30 ShangHai Half Marathon](./jpg/2016.10.30Marathon)~~ `Record : 2:50:03`
@@ -21,18 +19,16 @@
   - ~~2017无锡马拉松~~ `没有报上名`
   - ~~[2017 4.23上海半程马拉松](./jpg/2017.4.23Marathon) `已报名`~~ `Record : 2:50:40`
   - [2017 11.12 上海国际半程马拉松](./jpg/2017.11.12Marathon)
-  
-## [守望先锋](http://www.playoverwatch.cn)
 
 ## [魔兽世界](http://wow.blizzard.cn)
-  - ~~[7.0 RoadMap](./WOW/RoadMap.md)~~ `已放弃`
+  - ~~[7.0 RoadMap](./WOW/RoadMap.md)~~ `已放弃`
 
 ## 展览 && 旅途
 - 2016
   - ~~[上海龙美术馆 奥拉维尔·利亚松 无相万象](http://thelongmuseum.org/cn/exhibition/overview/d81dwA)~~ `过期`
   - ~~[上海当代艺术博物馆 蛇杖III](http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~   [当天](./蛇杖)
-  - 苏州甪直保圣寺 
-  - ~~[上海电影博物馆](http://www.shfilmmuseum.com/)~~
+  - 苏州甪直保圣寺
+  - ~~[上海电影博物馆](http://www.shfilmmuseum.com/)~~ [当天](./电影博物馆)
   - ~~[上海自然博物馆]( http://www.snhm.org.cn/)~~ [当天](./自然博物馆)
   - ~~徽杭古道徒步~~ [当天](./GoHiking/09-02)
   - ~~四窗岩漂流~~ [仅有的照片](./jpg/002.JPG)
