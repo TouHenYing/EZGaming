@@ -1,6 +1,6 @@
 # EZGaming
-  - 1. mark whatever we want
-  - 2. everyone can pr what you want
+  1. mark whatever we want
+  2. everyone can pr what you want
 
 -----------------------------------
 
@@ -15,12 +15,12 @@
 ## [炉石传说](http://www.hearthstone.com.cn)
 
 ## Sports
-  - ~~[2016 10.30 ShangHai Half Marathon](./jpg/2016.10.30 Marathon)~~ `Record : 2:50:03`
+  - ~~[2016 10.30 ShangHai Half Marathon](./jpg/2016.10.30Marathon)~~ `Record : 2:50:03`
   - ~~[从无锡到上海](./jpg/004.PNG)~~ `Done`
   - 滴水湖骑行 `阳春三月出发 倒数`
-  - ~~无锡马拉松~~ `没有报上名`
-  - ~~[2017 4.23上海半程马拉松](./jpg/2017.4.23 Marathon) `已报名`~~ `Record : 2:50:40`
-  - [2017 11.12 上海国际半程马拉松](./jpg/2017.11.12 Marathon)
+  - ~~2017无锡马拉松~~ `没有报上名`
+  - ~~[2017 4.23上海半程马拉松](./jpg/2017.4.23Marathon) `已报名`~~ `Record : 2:50:40`
+  - [2017 11.12 上海国际半程马拉松](./jpg/2017.11.12Marathon)
   
 ## [守望先锋](http://www.playoverwatch.cn)
 
@@ -30,7 +30,7 @@
 ## 展览 && 旅途
 - 2016
   - ~~[上海龙美术馆 奥拉维尔·利亚松 无相万象](http://thelongmuseum.org/cn/exhibition/overview/d81dwA)~~ `过期`
-  - ~~[上海当代艺术博物馆 蛇杖III](http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~   [当天](./%E8%9B%87%E6%9D%96)
+  - ~~[上海当代艺术博物馆 蛇杖III](http://www.powerstationofart.org/cn/exhibition/detail/272fvy.html)~~   [当天](./蛇杖)
   - 苏州甪直保圣寺 
   - ~~[上海电影博物馆](http://www.shfilmmuseum.com/)~~
   - ~~[上海自然博物馆]( http://www.snhm.org.cn/)~~ [当天](./自然博物馆)
