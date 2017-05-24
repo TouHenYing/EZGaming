@@ -55,6 +55,9 @@
   - 抓取菜谱
   - 每日10:00读书
   - 继续跑步
+
+## Tips
+  - [MarkDown](./Tips/MarkDown.md)
   
 ## 做出的改变
   - Be more tough
