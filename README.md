@@ -40,8 +40,8 @@
   - 泰山之行 or 黄山之行?
   - ~~问题博物馆~~
   - ~~[伊东丰雄 曲水流思](http://www.powerstationofart.com/cn/exhibition/TOYO-ITO-ON-THE-STREAM.html)~~ [当天](./伊东丰雄)
-  - [朱利安·奥培（JULIAN OPIE）中国首次个展](http://www.bfcsh.com/zh/exhibitions-and-events/3/julian-opie)
-  - [透明的声音]
+  - ~~[朱利安·奥培（JULIAN OPIE）中国首次个展](http://www.bfcsh.com/zh/exhibitions-and-events/3/julian-opie)~~
+  - [透明的声音](http://www.minshengart.com/)
   
 ## ToBuy
   - [x] 耳机
