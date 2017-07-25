@@ -11,6 +11,7 @@
   - [2017波士顿秋季赛](./Dota2/Boston.md) `OG夺冠`
   - [2017 DAC邀请赛](./Dota2/DAC.md)`IG夺冠`
   - [2017 基辅特锦赛](./Dota2/Keiv.md) `OG夺冠`
+  - [TI7](./Dota2/TI7.md)
 
 ## Sports
   - ~~[2016 10.30 ShangHai Half Marathon](./jpg/2016.10.30Marathon)~~ `Record : 2:50:03`
