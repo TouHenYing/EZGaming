@@ -46,9 +46,45 @@
 	<td align="center">Team Secret</td>
 	<td align="center">Planet Dog</td>
 	<td align="center">Team Empire</td>
-	<td align="center">Team NP</td>
+	<td align="center">Cloud9</td>
 	<td align="center">DC</td>
 	<td align="center">Infamous</td>
 </tr>
 </tbody>
 </table>
+## 小组赛分组
+<table>
+<thead>
+<tr>
+	<th align="center" colspan="9">A组</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td align="center">Evil Geniuses</td>
+	<td align="center">Team Liquid</td>
+	<td align="center">Team Secret</td>
+	<td align="center">Team Empire</td>
+	<td align="center">LGD Gaming</td>
+	<td align="center">Tnc Pro Team</td>
+	<td align="center">Fnatic</td>
+	<td align="center">Infamous</td>
+	<td align="center">iG.Vitality</td>
+</tr>
+<tr>
+	<td align="center" colspan="9">B组</td>
+</tr>
+<tr>
+	<td align="center">Invictus Gaming</td>
+	<td align="center">Virtus Pro</td>
+	<td align="center">OG</td>
+	<td align="center">Newbee</td>
+	<td align="center">Cloud9</td>
+	<td align="center">Planet Dog</td>
+	<td align="center">LFY</td>
+	<td align="center">DC</td>
+	<td align="center">Execration</td>
+</tr>
+</tbody>
+</table>
+
