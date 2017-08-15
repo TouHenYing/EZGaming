@@ -58,35 +58,127 @@
 <table>
 <thead>
 <tr>
-	<th align="center" colspan="9">A组</th>
+	<th align="center" colspan="5" >A组</th>
+    <th align="center" colspan="5">B组</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-	<td align="center">Evil Geniuses</td>
+	<td align="center">排名</td>
+	<td align="center">战队</td>
+	<td align="center">战绩</td>
+	<td align="center">积分</td>
+	<td align="center">胜/败/淘汰</td>
+	<td align="center">排名</td>
+	<td align="center">战队</td>
+	<td align="center">战绩</td>
+	<td align="center">积分</td>
+	<td align="center">胜/败/淘汰</td>
+</tr>
+
+<tr>
+	<td align="center">1</td>
 	<td align="center">Team Liquid</td>
-	<td align="center">Team Secret</td>
-	<td align="center">Team Empire</td>
-	<td align="center">LGD Gaming</td>
-	<td align="center">Tnc Pro Team</td>
-	<td align="center">Fnatic</td>
-	<td align="center">Infamous</td>
-	<td align="center">iG.Vitality</td>
-</tr>
-<tr>
-	<td align="center" colspan="9">B组</td>
-</tr>
-<tr>
-	<td align="center">Invictus Gaming</td>
-	<td align="center">Virtus Pro</td>
 	<td align="center">OG</td>
 	<td align="center">Newbee</td>
 	<td align="center">Cloud9</td>
-	<td align="center">Planet Dog</td>
+	<td align="center">HellRaisers</td>
+	<td align="center">LFY</td>
+	<td align="center">DC</td>
+	<td align="center">Execration</td>
+</tr>
+<tr>
+	<td align="center">2</td>
+	<td align="center">LGD Gaming</td>
+	<td align="center">OG</td>
+	<td align="center">Newbee</td>
+	<td align="center">Cloud9</td>
+	<td align="center">HellRaisers</td>
+	<td align="center">LFY</td>
+	<td align="center">DC</td>
+	<td align="center">Execration</td>
+</tr>
+<tr>
+	<td align="center">3</td>
+	<td align="center">Evil Geniuses</td>
+	<td align="center">OG</td>
+	<td align="center">Newbee</td>
+	<td align="center">Cloud9</td>
+	<td align="center">HellRaisers</td>
+	<td align="center">LFY</td>
+	<td align="center">DC</td>
+	<td align="center">Execration</td>
+</tr>
+<tr>
+	<td align="center">4</td>
+	<td align="center">Tnc Pro Team</td>
+	<td align="center">OG</td>
+	<td align="center">Newbee</td>
+	<td align="center">Cloud9</td>
+	<td align="center">HellRaisers</td>
+	<td align="center">LFY</td>
+	<td align="center">DC</td>
+	<td align="center">Execration</td>
+</tr>
+<tr>
+	<td align="center">5</td>
+	<td align="center">Team Secret</td>
+	<td align="center">OG</td>
+	<td align="center">Newbee</td>
+	<td align="center">Cloud9</td>
+	<td align="center">HellRaisers</td>
+	<td align="center">LFY</td>
+	<td align="center">DC</td>
+	<td align="center">Execration</td>
+</tr>
+<tr>
+	<td align="center">6</td>
+	<td align="center">iG.Vitality</td>
+	<td align="center">OG</td>
+	<td align="center">Newbee</td>
+	<td align="center">Cloud9</td>
+	<td align="center">HellRaisers</td>
+	<td align="center">LFY</td>
+	<td align="center">DC</td>
+	<td align="center">Execration</td>
+</tr>
+<tr>
+	<td align="center">7</td>
+	<td align="center">Team Empire</td>
+	<td align="center">OG</td>
+	<td align="center">Newbee</td>
+	<td align="center">Cloud9</td>
+	<td align="center">HellRaisers</td>
+	<td align="center">LFY</td>
+	<td align="center">DC</td>
+	<td align="center">Execration</td>
+</tr>
+<tr>
+	<td align="center">8</td>
+	<td align="center">Infamous</td>
+	<td align="center">OG</td>
+	<td align="center">Newbee</td>
+	<td align="center">Cloud9</td>
+	<td align="center">HellRaisers</td>
+	<td align="center">LFY</td>
+	<td align="center">DC</td>
+	<td align="center">Execration</td>
+</tr>
+<tr>
+	<td align="center">9</td>
+	<td align="center">Fnatic</td>
+	<td align="center">OG</td>
+	<td align="center">Newbee</td>
+	<td align="center">Cloud9</td>
+	<td align="center">HellRaisers</td>
 	<td align="center">LFY</td>
 	<td align="center">DC</td>
 	<td align="center">Execration</td>
 </tr>
 </tbody>
 </table>
+
+## 淘汰赛
+液体败者组一穿七,获得TI7世界冠军. Newbee又又又又是亚军
+
 
