@@ -19,8 +19,9 @@
   - 滴水湖骑行 `阳春三月出发 倒数`
   - ~~2017无锡马拉松~~ `没有报上名`
   - ~~[2017 4.23上海半程马拉松](./jpg/2017.4.23Marathon) `已报名`~~ `Record : 2:50:40`
-  - [2017 11.12 上海国际半程马拉松](./jpg/2017.11.12Marathon) `Record : 5:55:35`
-  - 2017.10.06 环巢湖骑行计划
+  - [2017 11.12 上海国际全程马拉松](./jpg/2017.11.12Marathon) `Record : 5:55:35`
+  - ~~2017.10.06 环巢湖骑行计划~~ `放弃`
+  - 2018无锡马拉松
 
 ## [魔兽世界](http://wow.blizzard.cn)
   - ~~[7.0 RoadMap](./WOW/RoadMap.md)~~ `已放弃`
@@ -43,13 +44,13 @@
   - ~~问题博物馆~~
   - ~~[伊东丰雄 曲水流思](http://www.powerstationofart.com/cn/exhibition/TOYO-ITO-ON-THE-STREAM.html)~~  [当天](./伊东丰雄)
   - ~~[朱利安·奥培（JULIAN OPIE）中国首次个展](http://www.bfcsh.com/zh/exhibitions-and-events/3/julian-opie)~~
-  - [透明的声音](http://www.minshengart.com/)
+  - ~~[透明的声音](http://www.minshengart.com/)~~
   - ~~[菲利普·帕雷诺：共此时](http://www.rockbundartmuseum.org/cn/exhibition/overview/c10coyu)~~ [当天](./共此时)
   
 ## ToBuy
   - [x] 耳机
   - [x] 自行车
-  - [ ] 微单 or 单反
+  - [x] 微单 or 单反
   - [ ] 车
 
 ## 2017想做的事
