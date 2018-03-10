@@ -19,9 +19,10 @@
   - 滴水湖骑行 `阳春三月出发 倒数`
   - ~~2017无锡马拉松~~ `没有报上名`
   - ~~[2017 4.23上海半程马拉松](./jpg/2017.4.23Marathon) `已报名`~~ `Record : 2:50:40`
-  - [2017 11.12 上海国际全程马拉松](./jpg/2017.11.12Marathon) `Record : 5:55:35`
+  - ~~[2017 11.12 上海国际全程马拉松](./jpg/2017.11.12Marathon)~~ `Record : 5:55:35`
   - ~~2017.10.06 环巢湖骑行计划~~ `放弃`
-  - 2018无锡马拉松
+  - ~~2018无锡马拉松~~ `没有报上名`
+  - 2018金鸡湖半马 `GOGO`
 
 ## [魔兽世界](http://wow.blizzard.cn)
   - ~~[7.0 RoadMap](./WOW/RoadMap.md)~~ `已放弃`
@@ -46,6 +47,8 @@
   - ~~[朱利安·奥培（JULIAN OPIE）中国首次个展](http://www.bfcsh.com/zh/exhibitions-and-events/3/julian-opie)~~
   - ~~[透明的声音](http://www.minshengart.com/)~~
   - ~~[菲利普·帕雷诺：共此时](http://www.rockbundartmuseum.org/cn/exhibition/overview/c10coyu)~~ [当天](./共此时)
+- 2018
+  - 
   
 ## ToBuy
   - [x] 耳机
@@ -54,11 +57,17 @@
   - [ ] 车
 
 ## 2017想做的事
-  - 日语学习 手段:百度云视频,手机app
-  - Dota2Book Going on 
-  - 抓取菜谱
+  - ~~日语学习 手段:百度云视频,手机app~~ `完成60%`
+  - ~~Dota2Book Going on~~ `abandon` 
+  - ~~抓取菜谱~~ `没开始做`
   - 每日10:00读书
   - 继续跑步
+
+##　2018想做的事
+ - learning 机器学习
+ - learning kotlin
+ - learning c++
+ - 多跑几个马拉松
 
 ## Tips
   - [MarkDown](./Tips/MarkDown.md)
