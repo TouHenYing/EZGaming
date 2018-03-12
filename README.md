@@ -48,7 +48,7 @@
   - ~~[透明的声音](http://www.minshengart.com/)~~
   - ~~[菲利普·帕雷诺：共此时](http://www.rockbundartmuseum.org/cn/exhibition/overview/c10coyu)~~ [当天](./共此时)
 - 2018
-  - 
+  - [见者的书信：约瑟夫·博伊斯×白南准](http://www.howartmuseum.org/article/index/id/263)
   
 ## ToBuy
   - [x] 耳机
