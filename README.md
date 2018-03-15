@@ -23,6 +23,7 @@
   - ~~2017.10.06 环巢湖骑行计划~~ `放弃`
   - ~~2018无锡马拉松~~ `没有报上名`
   - 2018金鸡湖半马 `2:38`
+  - 2018武汉半马
 
 ## [魔兽世界](http://wow.blizzard.cn)
   - ~~[7.0 RoadMap](./WOW/RoadMap.md)~~ `已放弃`
@@ -49,6 +50,7 @@
   - ~~[菲利普·帕雷诺：共此时](http://www.rockbundartmuseum.org/cn/exhibition/overview/c10coyu)~~ [当天](./共此时)
 - 2018
   - [见者的书信：约瑟夫·博伊斯×白南准](http://www.howartmuseum.org/article/index/id/263)
+  - [世纪公园]
   
 ## ToBuy
   - [x] 耳机
