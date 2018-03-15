@@ -1,3 +1,4 @@
+l
 # EZGaming
   1. mark whatever we want
   2. everyone can pr what you want
@@ -24,6 +25,7 @@
   - ~~2018无锡马拉松~~ `没有报上名`
   - 2018金鸡湖半马 `2:38`
   - 2018武汉半马
+  - ~~2018上海半马~~ `没有报上名`
 
 ## [魔兽世界](http://wow.blizzard.cn)
   - ~~[7.0 RoadMap](./WOW/RoadMap.md)~~ `已放弃`
