@@ -75,6 +75,7 @@ l
 
 ## Tips
   - [MarkDown](./Tips/MarkDown.md)
+  - [Make File](./Tips/makefile.md)
   
 ## 做出的改变
   - Be more tough
