@@ -52,6 +52,7 @@
 - 2018
   - [见者的书信：约瑟夫·博伊斯×白南准](http://www.howartmuseum.org/article/index/id/263)
   - [世纪公园] [当天]
+  - [第零空间——反向折叠](http://www.minshengart.com/cn)
   
 ## ToBuy
   - [x] 耳机
