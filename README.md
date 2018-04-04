@@ -53,7 +53,8 @@
   - [见者的书信：约瑟夫·博伊斯×白南准](http://www.howartmuseum.org/article/index/id/263)
   - [世纪公园] [当天]
   - [第零空间——反向折叠](http://www.minshengart.com/cn)
-  - []
+  - [群展 卡地亚当代艺术基金会: 陌生风景](http://www.powerstationofart.org/cn/exhibition/Fondation-Cartier-pour-lart-contemporain-A-Beautiful-Elsewhere-2.html)
+  - [个展 克里斯蒂安•波尔坦斯基：忆所](http://www.powerstationofart.org/cn/exhibition/Christian-Boltanski-Storage-Memory.html)
   
 ## ToBuy
   - [x] 耳机
