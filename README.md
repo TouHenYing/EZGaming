@@ -22,8 +22,8 @@
   - ~~[2017 11.12 上海国际全程马拉松](./jpg/2017.11.12Marathon)~~ `Record : 5:55:35`
   - ~~2017.10.06 环巢湖骑行计划~~ `放弃`
   - ~~2018无锡马拉松~~ `没有报上名`
-  - ~~2018金鸡湖半马~~ `2:38`
-  - ~~2018武汉半马~~ `2:32:48`
+  - ~~[2018金鸡湖半马](./jpg/2018.3.11Marathon)~~ `2:38`
+  - ~~[2018武汉半马](./jpg/2018.4.15Marathon)~~ `2:32:48`
   - ~~2018上海半马~~ `没有报上名`
 
 ## [魔兽世界](http://wow.blizzard.cn)
@@ -55,6 +55,7 @@
   - [第零空间——反向折叠](http://www.minshengart.com/cn)
   - [群展 卡地亚当代艺术基金会: 陌生风景](http://www.powerstationofart.org/cn/exhibition/Fondation-Cartier-pour-lart-contemporain-A-Beautiful-Elsewhere-2.html)
   - [个展 克里斯蒂安•波尔坦斯基：忆所](http://www.powerstationofart.org/cn/exhibition/Christian-Boltanski-Storage-Memory.html)
+  - [黄鹤楼](./黄鹤楼)
   
 ## ToBuy
   - [x] 耳机
