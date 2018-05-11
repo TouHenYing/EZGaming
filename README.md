@@ -59,6 +59,7 @@
   - [群展 卡地亚当代艺术基金会: 陌生风景](http://www.powerstationofart.org/cn/exhibition/Fondation-Cartier-pour-lart-contemporain-A-Beautiful-Elsewhere-2.html)
   - [个展 克里斯蒂安•波尔坦斯基：忆所](http://www.powerstationofart.org/cn/exhibition/Christian-Boltanski-Storage-Memory.html)
   - [黄鹤楼](./黄鹤楼)
+  - ~~[行将消退](http://www.rockbundartmuseum.org/cn/exhibition/overview/2f0cpyr)~~
   
 ## ToBuy
   - [x] 耳机
