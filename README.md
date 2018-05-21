@@ -39,14 +39,14 @@
   - 苏州甪直保圣寺
   - ~~[上海电影博物馆](http://www.shfilmmuseum.com/)~~ [当天](./电影博物馆)
   - ~~[上海自然博物馆]( http://www.snhm.org.cn/)~~ [当天](./自然博物馆)
-  - ~~徽杭古道徒步~~ [当天](./GoHiking/2016-09-02 徽杭古道)
+  - [徽杭古道](./GoHiking/2016-09-02-徽杭古道)
   - ~~四窗岩漂流~~ [仅有的照片](./jpg/002.JPG)
   - ~~苏州大闸蟹~~ `过季节`
   - 上海博物馆
     - [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_) 
   - ~~[上海双年展](http://www.shanghaibiennale.org/cn/)~~
 - 2017
-  - [黄山之行](./GoHiking/2017-07-21 黄山)
+  - [黄山之行](./GoHiking/2017-07-21-黄山)
   - ~~问题博物馆~~
   - ~~[伊东丰雄 曲水流思](http://www.powerstationofart.com/cn/exhibition/TOYO-ITO-ON-THE-STREAM.html)~~  [当天](./伊东丰雄)
   - ~~[朱利安·奥培（JULIAN OPIE）中国首次个展](http://www.bfcsh.com/zh/exhibitions-and-events/3/julian-opie)~~
@@ -60,7 +60,7 @@
   - [个展 克里斯蒂安•波尔坦斯基：忆所](http://www.powerstationofart.org/cn/exhibition/Christian-Boltanski-Storage-Memory.html)
   - [黄鹤楼](./黄鹤楼)
   - ~~[行将消退](http://www.rockbundartmuseum.org/cn/exhibition/overview/2f0cpyr)~~
-  - [泰山之行](./GoHiking/2018-05-21 泰山)
+  - [泰山之行](./GoHiking/2018-05-21-泰山)
   
 ## ToBuy
   - [x] 耳机
