@@ -16,7 +16,7 @@
 ## Sports
   - ~~[2016 10.30 ShangHai Half Marathon](./jpg/2016.10.30Marathon)~~ `Record : 2:50:03`
   - ~~[从无锡到上海](./jpg/004.PNG)~~ `Done`
-  - ~~[滴水湖骑行](./2018.4.29滴水湖)~~ 
+  - ~~[滴水湖骑行](./2018.4.29滴水湖)~~
   - ~~2017无锡马拉松~~ `没有报上名`
   - ~~[2017 4.23上海半程马拉松](./jpg/2017.4.23Marathon) `已报名`~~ `Record : 2:50:40`
   - ~~[2017 11.12 上海国际全程马拉松](./jpg/2017.11.12Marathon)~~ `Record : 5:55:35`
@@ -25,9 +25,13 @@
   - ~~[2018金鸡湖半马](./jpg/2018.3.11Marathon)~~ `2:38:07`
   - ~~[2018武汉半马](./jpg/2018.4.15Marathon)~~ `2:32:48`
   - ~~2018上海半马~~ `没有报上名`
-  - 2018上海全马
+  - 2018.09.16北京马拉松 7月中旬报名
+  - 2018.11.04杭州马拉松 9月初报名
+  - 2018.11.18上海马拉松 8月底报名
+  - 2018 12上旬广州马拉松 6月底报名
   - 2018蠡湖半马
   - 2018苏州太湖半马
+  - 2019.01.05厦门马拉松 9月份报名
 
 ## [魔兽世界](http://wow.blizzard.cn)
   - ~~[7.0 RoadMap](./WOW/RoadMap.md)~~ `已放弃`
@@ -44,7 +48,7 @@
   - ~~四窗岩漂流~~ [仅有的照片](./jpg/002.JPG)
   - ~~苏州大闸蟹~~ `过季节`
   - 上海博物馆
-    - [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_) 
+    - [卢芹斋](http://baike.baidu.com/link?url=-OzU6COwAv7DCSbKgMO_9Z9beuPPuf62spq9F_LhEQNdTB7Q1muwW-UyKBi-CqmMRu_ZahMsTHEkAgfO1n3p8_)
   - ~~[上海双年展](http://www.shanghaibiennale.org/cn/)~~
 - 2017
   - [黄山之行](./GoHiking/2017-07-21-黄山)
@@ -71,7 +75,7 @@
 
 ## 2017想做的事
   - ~~日语学习 手段:百度云视频,手机app~~ `完成60%`
-  - ~~Dota2Book Going on~~ `abandon` 
+  - ~~Dota2Book Going on~~ `abandon`
   - ~~抓取菜谱~~ `没开始做`
   - 每日10:00读书
   - 继续跑步
@@ -86,7 +90,7 @@
 ## Tips
   - [MarkDown](./Tips/MarkDown.md)
   - [Make File](./Tips/makefile.md)
-  
+
 ## 做出的改变
   - Be more tough
   - Be more firm
