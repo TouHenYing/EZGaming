@@ -26,10 +26,10 @@
   - ~~[2018武汉半马](./jpg/2018.4.15Marathon)~~ `2:32:48`
   - ~~2018上海半马~~ `没有报上名`
   - 2018.09.16北京马拉松 7月中旬报名
+  - 2018.11.04无锡蠡湖半马 7.3报名 已报名
   - 2018.11.04杭州马拉松 9月初报名
   - 2018.11.18上海马拉松 8月底报名
-  - 2018 12上旬广州马拉松 6月底报名
-  - 2018蠡湖半马
+  - 2018.12.09广州马拉松 6.30报名 已报名
   - 2018苏州太湖半马
   - 2019.01.05厦门马拉松 9月份报名
 
@@ -59,13 +59,14 @@
   - ~~[菲利普·帕雷诺：共此时](http://www.rockbundartmuseum.org/cn/exhibition/overview/c10coyu)~~ [当天](./共此时)
 - 2018
   - [见者的书信：约瑟夫·博伊斯×白南准](http://www.howartmuseum.org/article/index/id/263)
-  - [世纪公园] [当天]
-  - [第零空间——反向折叠](http://www.minshengart.com/cn)
+  - 世纪公园 [当天]
+  - ~~[第零空间——反向折叠](http://www.minshengart.com/cn)~~ `过期`
   - [群展 卡地亚当代艺术基金会: 陌生风景](http://www.powerstationofart.org/cn/exhibition/Fondation-Cartier-pour-lart-contemporain-A-Beautiful-Elsewhere-2.html)
   - [个展 克里斯蒂安•波尔坦斯基：忆所](http://www.powerstationofart.org/cn/exhibition/Christian-Boltanski-Storage-Memory.html)
   - [黄鹤楼](./黄鹤楼)
   - ~~[行将消退](http://www.rockbundartmuseum.org/cn/exhibition/overview/2f0cpyr)~~
   - [泰山之行](./GoHiking/2018-05-21-泰山)
+  - [林天苗：体·统](http://www.rockbundartmuseum.org/cn/exhibition/overview/955cqsr)
   
 ## ToBuy
   - [x] 耳机
