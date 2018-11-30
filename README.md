@@ -59,15 +59,22 @@
   - ~~[透明的声音](http://www.minshengart.com/)~~
   - ~~[菲利普·帕雷诺：共此时](http://www.rockbundartmuseum.org/cn/exhibition/overview/c10coyu)~~ [当天](./共此时)
 - 2018
-  - [见者的书信：约瑟夫·博伊斯×白南准](http://www.howartmuseum.org/article/index/id/263)
+  - ~~[见者的书信：约瑟夫·博伊斯×白南准](http://www.howartmuseum.org/article/index/id/263)~~
   - 世纪公园 [当天]
   - ~~[第零空间——反向折叠](http://www.minshengart.com/cn)~~ `过期`
   - [群展 卡地亚当代艺术基金会: 陌生风景](http://www.powerstationofart.org/cn/exhibition/Fondation-Cartier-pour-lart-contemporain-A-Beautiful-Elsewhere-2.html)
   - [个展 克里斯蒂安•波尔坦斯基：忆所](http://www.powerstationofart.org/cn/exhibition/Christian-Boltanski-Storage-Memory.html)
+  - [卡地亚当代艺术基金会：陌生风景](https://fondation.cartier.cn/zh/exhibitions/international/fondation-cartier-pour-lart-contemporain-a-beautiful-elsewhere/catalogue)
   - [黄鹤楼](./黄鹤楼)
   - ~~[行将消退](http://www.rockbundartmuseum.org/cn/exhibition/overview/2f0cpyr)~~
   - [泰山之行](./GoHiking/2018-05-21-泰山)
   - [林天苗：体·统](http://www.rockbundartmuseum.org/cn/exhibition/overview/955cqsr)
+  - [群展 她：妮基·圣法勒和沈远](http://www.powerstationofart.com/cn/exhibition/PSA-Exhibition-HON.html)
+  - [弗朗西斯·埃利斯：消耗](http://www.rockbundartmuseum.org/cn/exhibition/overview/d70cqws)
+  - [群展 第12届上海双年展：禹步](http://www.powerstationofart.com/cn/exhibition/The-12th-Shanghai-Biennale-Proregress.html)
+  - [GUCCI x 莫瑞吉奥·卡特兰 | 艺术家此在](http://www.yuzmshanghai.org/gucci-x-%E8%8E%AB%E7%91%9E%E5%90%89%E5%A5%A5%C2%B7%E5%8D%A1%E7%89%B9%E5%85%B0-%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%AD%A4%E5%9C%A8/?lang=zh-hans&lang=zh-hans)
+  - [托马斯·赫赛豪恩：重塑](http://www.mcam.io/article/gallery_index/23)
+  - [TAKASHI MURAKAMI IN WONDERLAND 個展](https://www.perrotin.com/cn/exhibitions/takashi_murakami-takashi-murakami-in-wonderland/7196)
   
 ## ToBuy
   - [x] 耳机
